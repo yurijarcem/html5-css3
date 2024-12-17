@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+* {
+    font-family: JetBrains Mono Thin;
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(to bottom, #E8E3DD, #DCDCDA, #838DB1, #263A69);
+}
+main{
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 15px #182542a6;
+}
+h1{
+    color: #263A69;
+    text-align: center;
+    text-shadow: 1px 1px 1px #121c33bd;
+}
+h2{
+    color: #838DB1;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
